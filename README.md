@@ -1,6 +1,8 @@
 # Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Colorful Skies
 
-Welcome to the "Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Colorful Skies" workshop repository! .In this workshop, we will explore the fundamental concepts of aperture photometry in astronomical data analysis.
+Welcome to the "Telescopes and Photometry" workshop repository. Explore the world of telescopes, from optical to radio, infrared, X-ray, and gamma-ray, and understand their unique contributions to astronomy. Additionally, dive into the fundamental concept of photometry, learning how to measure celestial object brightness. Join us on this journey
+
+##  Cosmic Kaleidoscope of Wavelength Wonders`Talk2.pdf`**
 
 ## Installation and making color composite image using DS9
 1. Installation (Ubuntu 20) (https://ds9.si.edu/download/ubuntu20/ds9.ubuntu20.8.5.tar.gz)
@@ -9,6 +11,7 @@ Welcome to the "Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Color
 [ J band FITS Image](https://drive.google.com/uc?id=1klIJeDneoshX8iLWJYPWICmaZ1iVmXL2)<br>
 [H band FITS Image](https://drive.google.com/uc?id=1Be95hOGoxMNUllnJ3LkL9dMSV_P2X6sn)<br>
 [K band FITS Image](https://drive.google.com/uc?id=11qcS0WR50VTF0VdzgH0eLuFMqfG1d4OQ)
+
 
 ## Photometry Materials
 
@@ -23,15 +26,14 @@ This repository contains the following materials:
 
 
 3. **Presentation Slides: `Talk2.pdf`**
-   - The PowerPoint presentation slides used during the workshop are included for your reference. These slides provide an overview of the key concepts and methods covered in the workshop.
+   - These slides provide an overview of photometry's key concepts and methods.
 
 ## Questions and Feedback
 
 If you have questions, encounter issues, or want to provide feedback, please feel free to:
 
-- Contact me at (gregory6.626@gmail.com)
-- Raise an issue on this repository to ask questions or report problems.
-- Submit a pull request if you have improvements or suggestions for the workshop materials.
+- Contact us at (gregory6.626@gmail.com) (inspire.sudeshna@gmail.com)
+
 We hope you enjoy the workshop and find it helpful in your journey to understand and apply aperture photometry in data analysis.
 
 Happy learning!
@@ -40,3 +42,4 @@ Happy learning!
 - Astropy documentation(https://docs.astropy.org/en/stable/)
 - Photutils documentation(https://photutils.readthedocs.io/en/stable/)
 - MAST Archive for JWST image(https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
+- DS9 (https://sites.google.com/cfa.harvard.edu/saoimageds9)

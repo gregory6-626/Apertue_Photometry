@@ -11,6 +11,8 @@ This repository contains the following materials:
 
 2. **Astronomical Image (FITS File): `carina_sci.fits`**
    - The FITS file contains sample astronomical image data that we'll use for the photometric analysis. You can use this file to practice the techniques discussed in the workshop.
+   - [Download Large FITS File](https://drive.google.com/file/d/1_Cm1B82WMI48rRnZtDzAllkH0fU5n7og/view?usp=sharing)
+
 
 3. **Presentation Slides: `PHOTOMETRY.pdf`**
    - The PowerPoint presentation slides used during the workshop are included for your reference. These slides provide an overview of the key concepts and methods covered in the workshop.

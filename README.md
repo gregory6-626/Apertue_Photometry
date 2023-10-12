@@ -6,7 +6,7 @@ Welcome to the "Introduction to Aperture Photometry" workshop repository! In thi
 
 This repository contains the following materials:
 
-1. **Notebook: `photometry.ipynb`**
+1. **Notebook: `photometry.ipynb`** (https://colab.research.google.com/drive/1qYafR1xzluWYCwNFQIOhMqEnFFaLrYQQ?usp=sharing)
    - This Jupyter Notebook provides step-by-step instructions and code examples for performing aperture photometry on astronomical data using Python. Follow along with the notebook to learn the basics of aperture photometry.
 
 2. **Astronomical Image (FITS File): `carina_sci.fits`**

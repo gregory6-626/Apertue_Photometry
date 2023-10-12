@@ -2,7 +2,7 @@
 
 Welcome to the "Telescopes and Photometry" workshop repository. Explore the world of telescopes, from optical to radio, infrared, X-ray, and gamma-ray, and understand their unique contributions to astronomy. Additionally, dive into the fundamental concept of photometry, learning how to measure celestial object brightness. Join us on this journey
 
-##  Cosmic Kaleidoscope of Wavelength Wonders `Talk2.pdf`
+##  Cosmic Kaleidoscope of Wavelength Wonders `Talk1.pdf`
 
 ## Installation and making color composite image using DS9
 1. Installation (Ubuntu 20) (https://ds9.si.edu/download/ubuntu20/ds9.ubuntu20.8.5.tar.gz)

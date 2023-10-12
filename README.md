@@ -3,7 +3,9 @@
 Welcome to the "Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Colorful Skies" workshop repository! .In this workshop, we will explore the fundamental concepts of aperture photometry in astronomical data analysis.
 
 ## Installation and making color composite image using DS9
-
+1. Installation (Ubuntu 20) (https://ds9.si.edu/download/ubuntu20/ds9.ubuntu20.8.5.tar.gz)
+2. Installation (Windows) (https://ds9.si.edu/download/win64/SAOImageDS9%208.5%20Install.exe)
+3. Download the fits images()
 
 ## Photometry Materials
 

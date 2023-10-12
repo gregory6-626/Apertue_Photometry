@@ -5,7 +5,7 @@ Welcome to the "Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Color
 ## Installation and making color composite image using DS9
 1. Installation (Ubuntu 20) (https://ds9.si.edu/download/ubuntu20/ds9.ubuntu20.8.5.tar.gz)
 2. Installation (Windows) (https://ds9.si.edu/download/win64/SAOImageDS9%208.5%20Install.exe)
-3. Download the fits images
+3. Download the fits images <br>
 [ J band FITS Image](https://drive.google.com/uc?id=1klIJeDneoshX8iLWJYPWICmaZ1iVmXL2)<br>
 [H band FITS Image](https://drive.google.com/uc?id=1Be95hOGoxMNUllnJ3LkL9dMSV_P2X6sn)<br>
 [K band FITS Image](https://drive.google.com/uc?id=11qcS0WR50VTF0VdzgH0eLuFMqfG1d4OQ)

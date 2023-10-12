@@ -27,3 +27,8 @@ If you have questions, encounter issues, or want to provide feedback, please fee
 We hope you enjoy the workshop and find it helpful in your journey to understand and apply aperture photometry in data analysis.
 
 Happy learning!
+
+## References
+- Astropy documentation(https://docs.astropy.org/en/stable/)
+- Photutils documentation(https://photutils.readthedocs.io/en/stable/)
+- MAST Archive for JWST image(https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)

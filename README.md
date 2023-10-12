@@ -1,8 +1,11 @@
-# Data Analysis Workshop: Introduction to Aperture Photometry
+# Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Colorful Skies
 
-Welcome to the "Introduction to Aperture Photometry" workshop repository! In this workshop, we will explore the fundamental concepts of aperture photometry in astronomical data analysis.
+Welcome to the "Cosmic Explorer's Workshop: Telescopes, Data Analysis, and Colorful Skies" workshop repository! .In this workshop, we will explore the fundamental concepts of aperture photometry in astronomical data analysis.
 
-## Workshop Materials
+## Installation and making color composite image using DS9
+
+
+## Photometry Materials
 
 This repository contains the following materials:
 

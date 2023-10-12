@@ -22,7 +22,7 @@ This repository contains the following materials:
    - [Download Large FITS File](https://drive.google.com/file/d/1_Cm1B82WMI48rRnZtDzAllkH0fU5n7og/view?usp=sharing)
 
 
-3. **Presentation Slides: `PHOTOMETRY.pdf`**
+3. **Presentation Slides: `Talk2.pdf`**
    - The PowerPoint presentation slides used during the workshop are included for your reference. These slides provide an overview of the key concepts and methods covered in the workshop.
 
 ## Questions and Feedback
